@@ -1,0 +1,2 @@
+You have to generate (latest) header files before compiling.
+use generate-header.sh to generate them
